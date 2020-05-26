@@ -1,4 +1,4 @@
-package com.gemalto.ics.jamaica.view.fragments;
+package com.sennin.dev.view.fragments;
 
 import android.graphics.BitmapFactory;
 import android.os.Bundle;
@@ -10,8 +10,8 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
 
-import com.gemalto.ics.jamaica.view.custom.FlipView;
-import com.gemalto.ics.jamaica.vieweffects.R;
+import com.sennin.dev.view.custom.FlipView;
+import com.sennin.dev.vieweffects.R;
 
 public class FlipViewFragment extends Fragment {
     public static final String ARG_OBJECT = "object";

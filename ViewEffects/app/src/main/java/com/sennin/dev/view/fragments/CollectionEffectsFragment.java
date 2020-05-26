@@ -1,4 +1,4 @@
-package com.gemalto.ics.jamaica.view.fragments;
+package com.sennin.dev.view.fragments;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -10,7 +10,7 @@ import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
 import androidx.viewpager2.widget.ViewPager2;
 
-import com.gemalto.ics.jamaica.vieweffects.R;
+import com.sennin.dev.vieweffects.R;
 import com.google.android.material.tabs.TabLayout;
 import com.google.android.material.tabs.TabLayoutMediator;
 

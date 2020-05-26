@@ -1,4 +1,4 @@
-package com.gemalto.ics.jamaica.view.custom;
+package com.sennin.dev.view.custom;
 
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;

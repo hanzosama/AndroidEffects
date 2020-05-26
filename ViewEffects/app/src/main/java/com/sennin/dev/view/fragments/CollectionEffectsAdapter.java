@@ -1,4 +1,4 @@
-package com.gemalto.ics.jamaica.view.fragments;
+package com.sennin.dev.view.fragments;
 
 import android.os.Bundle;
 

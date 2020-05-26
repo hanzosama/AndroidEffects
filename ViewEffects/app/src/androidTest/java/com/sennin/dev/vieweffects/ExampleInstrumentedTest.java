@@ -1,4 +1,4 @@
-package com.gemalto.ics.jamaica.vieweffects;
+package com.sennin.dev.vieweffects;
 
 import android.content.Context;
 

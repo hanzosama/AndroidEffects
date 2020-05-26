@@ -1,4 +1,4 @@
-package com.gemalto.ics.jamaica.view.fragments;
+package com.sennin.dev.view.fragments;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -9,8 +9,8 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
 
-import com.gemalto.ics.jamaica.vieweffects.R;
-import com.gemalto.ics.jamaica.view.custom.PageCurlView;
+import com.sennin.dev.vieweffects.R;
+import com.sennin.dev.view.custom.PageCurlView;
 
 import java.util.ArrayList;
 import java.util.List;

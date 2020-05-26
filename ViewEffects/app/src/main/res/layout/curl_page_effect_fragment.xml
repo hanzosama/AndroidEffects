@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     app:layout_behavior="@string/appbar_scrolling_view_behavior">
 
-    <com.gemalto.ics.jamaica.view.custom.PageCurlView
+    <com.sennin.dev.view.custom.PageCurlView
         android:id="@+id/PageCurlView"
         android:layout_width="match_parent"
         android:layout_height="match_parent"

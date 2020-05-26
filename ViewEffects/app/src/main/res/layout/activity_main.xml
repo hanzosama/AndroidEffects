@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.gemalto.ics.jamaica.view.MainActivity">
+    tools:context="com.sennin.dev.view.MainActivity">
 
     <com.google.android.material.appbar.AppBarLayout
         android:layout_width="match_parent"
@@ -22,7 +22,7 @@
     <!--Statically added, because its a Fragment Adapter-->
     <fragment
         android:id="@+id/collectionEffectsFragment"
-        android:name="com.gemalto.ics.jamaica.view.fragments.CollectionEffectsFragment"
+        android:name="com.sennin.dev.view.fragments.CollectionEffectsFragment"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         app:layout_behavior="@string/appbar_scrolling_view_behavior"

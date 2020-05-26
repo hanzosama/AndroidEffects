@@ -1,4 +1,4 @@
-package com.gemalto.ics.jamaica.view.custom;
+package com.sennin.dev.view.custom;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
@@ -22,7 +22,7 @@ import android.view.View;
 
 import androidx.annotation.NonNull;
 
-import com.gemalto.ics.jamaica.vieweffects.R;
+import com.sennin.dev.vieweffects.R;
 
 import java.lang.ref.WeakReference;
 import java.util.ArrayList;
